@@ -4,7 +4,7 @@
 
 ## 📈 Моя статистика GitHub
 
-![GitHub Stats](https://vercel.app)
+[Моя статистика](https://vercel.app)
 
 ## 📫 Как со мной связаться:
 
