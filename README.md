@@ -8,4 +8,4 @@
 
 ## 📫 Как со мной связаться:
 
-[![Мой телеграм]](https://t.me/tapochk_fsk)
+[Мой телеграм](https://t.me/tapochk_fsk)
