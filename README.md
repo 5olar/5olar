@@ -8,4 +8,4 @@
 </p>
 
 #Как со мной связаться:
-[![Telegram](https://shields.io)](https://t.me)
+[![Telegram](https://shields.io)](https://t.me/tapochk_fsk)
