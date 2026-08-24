@@ -4,10 +4,8 @@
 
 ## 📈 Моя статистика GitHub
 
-<p align="left">
-  <img src="https://vercel.app" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://vercel.app)
 
 ## 📫 Как со мной связаться:
 
-[![Telegram](https://shields.io)](https://t.me/tapochk_fsk)
+[![Мой телеграм](https://shields.io)](https://t.me/tapochk_fsk)
